@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Oi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Eu sou Leonardo Almeida</h1>
-<h3 align="center">Desenvolvedor Mobile || React Native || Flutter || Estudando Swift </h3>
+<h3 align="center">Desenvolvedor Mobile Swift || React Native || Flutter </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardo-almeida-83268494/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100004181777227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Leonardo Almeida" height="30" width="40" /></a>
@@ -17,8 +17,8 @@
 
 ✔ Pronomes: **_Ele/Dele_** <br>
 ✔ Atualmente estou desenvolvendo **App Lidia Bank**<br>
-✔ Atualmente estou aprendendo **Swift**<br>
-✔ Sou muito bom em **JavaScript**, **React-Native**, **Flutter**.<br>
+✔ Atualmente estou aprendendo **MVVM-C, Testes**<br>
+✔ Sou muito bom em **Swift** **JavaScript**, **React-Native**, **Flutter**.<br>
 ✔ Estou procurando colaborar em qualquer **Projeto de Código Aberto**<br>
 ✔ Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar!😉<br>
 <br><br><br><br>
