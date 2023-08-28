@@ -15,9 +15,9 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Falando sobre coisas pessoais..._**
 
 ✔ Pronomes: **_Ele/Dele_** <br>
-✔ Atualmente estou desenvolvendo **App Lidia Bank**<br>
-✔ Atualmente estou aprendendo **MVVM-C, Testes**<br>
-✔ Sou muito bom em **Swift** **JavaScript**, **React-Native**, **Flutter**.<br>
+✔ Atualmente estou desenvolvendo **App Casas Bahia/Extra/Ponto Frio**<br>
+✔ Atualmente estou aprendendo **Arquitetura e Engenharia apps Apps WhiteLabel*<br>
+✔ Sou muito bom em **Swift**, **JavaScript**, **React-Native**, **Flutter**.<br>
 ✔ Estou procurando colaborar em qualquer **Projeto de Código Aberto**<br>
 ✔ Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar!😉<br>
 <br><br><br><br>
@@ -26,24 +26,23 @@
 
 
   <div> 
+    
+   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">   
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-
-  
+   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg">
-   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
   
