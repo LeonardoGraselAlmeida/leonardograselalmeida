@@ -16,7 +16,7 @@
 
 ✔ Pronomes: **_Ele/Dele_** <br>
 ✔ Atualmente estou desenvolvendo **App Casas Bahia/Extra/Ponto Frio**<br>
-✔ Atualmente estou aprendendo **Arquitetura e Engenharia apps Apps WhiteLabel*<br>
+✔ Atualmente estou aprendendo **Arquitetura e Engenharia para Apps WhiteLabel**<br>
 ✔ Sou muito bom em **Swift**, **JavaScript**, **React-Native**, **Flutter**.<br>
 ✔ Estou procurando colaborar em qualquer **Projeto de Código Aberto**<br>
 ✔ Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar!😉<br>
