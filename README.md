@@ -8,7 +8,6 @@
 <a href="https://www.linkedin.com/in/leonardo-almeida-83268494/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100004181777227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Leonardo Almeida" height="30" width="40" /></a>
 </p>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardograselalmeida&label=Profile%20views&color=0e75b6&style=flat" alt="leonardograselalmeida" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -25,64 +24,30 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Linguagens e Ferramentas Conhecidas_**
 
-<p align="left">
-  
-  <code>
+
+  <div> 
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  </code>
-  <code>
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  </code>
-  <code>
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  </code>
-  <code>
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  </code>
-  <code>
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  </code>
-  <code>
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  </code>
-  <code>
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  </code>
-  <code>
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  </code>
-  <code>
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  </code>
-  <br/>
-  <br/>
-  <code>
+
+  
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg">
-  </code>
-  <code>
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  </code>
-  <code>
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  </code>
-  <code>
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-  </code>
-  <code>
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  </code>
-  <code>
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  </code>
-  <code>
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  </code>
-  <code>
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  </code>
-  <code>
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
-  </code>
+  
+</div>
 
   <hr>
   <p align="center">
